@@ -15,7 +15,7 @@ The goal is to build a reliable analytics pipeline that ensures data quality, su
 - Python
 - Databricks
 - Git & GitHub
-- Parquet / Delta Lake
+- Parquet
 
 ---
 
@@ -27,7 +27,7 @@ Data Source (CSV)
 → Data Ingestion (PySpark)
 → Data Cleaning & Transformation
 → Data Quality Validation
-→ Data Storage (Parquet/Delta)
+→ Data Storage (Parquet)
 → SQL Analytics Layer
 
 ---
