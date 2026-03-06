@@ -56,7 +56,7 @@ Data Quality Layer
 → Validation rules executed using data_quality_checks.py
 
 Storage Layer
-→ Clean dataset stored in Parquet / Delta format
+→ Clean dataset stored in Parquet
 
 Analytics Layer
 → SQL queries for analysis and reporting
