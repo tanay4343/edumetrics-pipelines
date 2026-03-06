@@ -94,7 +94,6 @@ Example output location:
 The dataset is stored in one of the following formats:
 
 - Parquet
-- Delta Lake
 
 These formats provide:
 - Faster query performance
@@ -138,7 +137,7 @@ Data Cleaning and Transformation (PySpark)
 ↓
 Data Validation and Quality Checks
 ↓
-Storage in Parquet or Delta Table
+Storage in Parquet Table
 ↓
 SQL Analytics and Reporting
 
@@ -153,7 +152,7 @@ SQL Analytics and Reporting
 | PySpark | Data processing and transformation |
 | SQL | Data analysis |
 | Databricks | Data engineering platform |
-| Parquet / Delta Lake | Data storage format |
+| Parquet | Data storage format |
 | Git & GitHub | Version control and project management |
 
 ---
