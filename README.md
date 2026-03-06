@@ -117,8 +117,3 @@ Data governance practices implemented:
 No sensitive personally identifiable information (PII) exists in the dataset.
 
 ---
-
-## Author
-
-Tanay Chourasiya
-Data Engineering Assessment
