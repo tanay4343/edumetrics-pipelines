@@ -94,17 +94,6 @@ Dimension Tables
 
 ---
 
-## SQL Analytics
-
-The following analysis queries were implemented:
-
-1. Average score by region
-2. Top performing schools
-3. Teacher performance ranking
-4. Subject performance analysis
-5. Regional pass rate comparison
-
----
 
 ## Data Governance
 
